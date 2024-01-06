@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>测试图片</title>
+    <url>/2024/01/07/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/</url>
+    <content><![CDATA[<p><img src="/2024/01/07/%E6%B5%8B%E8%AF%95%E5%9B%BE%E7%89%87/1.jpeg" alt="DefaultListableBeanFactory的类结构图"></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>Spring入门</title>
+    <url>/2024/01/06/Spring%E5%85%A5%E9%97%A8/</url>
+    <content><![CDATA[<p>这是第一篇文章，是Spring源码的入门篇。</p>
+<p>![image-20240107000858141](&#x2F;Users&#x2F;yoofale&#x2F;Library&#x2F;Application Support&#x2F;typora-user-images&#x2F;image-20240107000858141.png</p>
+]]></content>
+      <categories>
+        <category>Spring</category>
+      </categories>
+      <tags>
+        <tag>Spring</tag>
+        <tag>源码</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>first-blog</title>
     <url>/2023/12/28/first-blog/</url>
     <content><![CDATA[<p>12月28日，完成git个人博客的搭建，同时写下第一篇文章。</p>
